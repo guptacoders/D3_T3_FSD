@@ -8,7 +8,9 @@ import Map4 from './Map4'
 import List from './List'
 import Filter1 from './Filter1'
 import Filter2 from './Filter2'
-import Filter_Map_mix from './Filter_Map_mix'
+
+import Prop1 from './Prop1'
+import Prop3 from './Prop3'
 
 function MyApp()
 {
@@ -23,7 +25,8 @@ function MyApp()
             <List/>
             <Filter1/>
             <Filter2/>
-            <Filter_Map_mix/>
+            <Prop1/>
+            <Prop3/>
         </>
     )
 }
